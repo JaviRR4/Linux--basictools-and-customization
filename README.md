@@ -1,2 +1,3 @@
 # Linux-customization
-Some alias or shortcuts
+Herramientas simples de uso diario o algunos shortcuts.
+Uso de notas rapidas
